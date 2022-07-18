@@ -2,10 +2,12 @@
 	"name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
 	"dependencies": {
-		"express": "^4.14.0",
 		"body-parser": "^1.15.2",
 		"cookie-parser": "^1.4.3",
-		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
+		"dotenv": "^16.0.1",
+		"express": "^4.14.0",
+		"fcc-express-bground": "github:freeCodeCamp/fcc-express-bground-pkg",
+		"server": "^1.0.37"
 	},
 	"main": "server.js",
 	"scripts": {
